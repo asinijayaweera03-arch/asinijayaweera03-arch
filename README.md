@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=asinijayaweera03-arch&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
